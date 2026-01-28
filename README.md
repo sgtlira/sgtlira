@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá!! Eu sou o Guilherme.
 
 # 💫 About Me:
 Sou Sargento do Exército Brasileiro e profissional de TI, formado em Análise e Desenvolvimento de Sistemas, com mais de cinco anos de experiência na área. Atuo na interseção entre disciplina militar e tecnologia, aplicando boas práticas de desenvolvimento de software para criar soluções eficientes, seguras e escaláveis. Tenho experiência com Java e tecnologias web, além de vivência em ambientes de alta responsabilidade, onde precisão, organização e confiabilidade são essenciais. Neste GitHub compartilho projetos, estudos e experimentos voltados ao desenvolvimento de software e à melhoria contínua como profissional de tecnologia.
