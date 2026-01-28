@@ -1,10 +1,10 @@
 ## Olá!! Eu sou o Guilherme.
 
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou Sargento do Exército Brasileiro e profissional de TI, formado em Análise e Desenvolvimento de Sistemas, com mais de cinco anos de experiência na área. Atuo na interseção entre disciplina militar e tecnologia, aplicando boas práticas de desenvolvimento de software para criar soluções eficientes, seguras e escaláveis. Tenho experiência com Java e tecnologias web, além de vivência em ambientes de alta responsabilidade, onde precisão, organização e confiabilidade são essenciais. Neste GitHub compartilho projetos, estudos e experimentos voltados ao desenvolvimento de software e à melhoria contínua como profissional de tecnologia.
 
 
-## 🌐 Socials:
+## 🌐 Mídias Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/guilherme-lira-401aa8349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:guigui123996@gmail.com) 
 
 # 💻 Tech Stack:
@@ -12,12 +12,5 @@ Sou Sargento do Exército Brasileiro e profissional de TI, formado em Análise e
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sgtlira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=sgtlira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sgtlira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sgtlira&theme=dark&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=sgtlira&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
